@@ -1,0 +1,9 @@
+.metals/
+.vscode/
+__pycache__/
+
+*.docx
+
+temp/
+
+*.csv

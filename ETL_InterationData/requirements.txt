@@ -1,0 +1,13 @@
+1. trong từng tháng user search cái gì nhiều nhất
+=> sau 1 tháng hành vi có thay đổi ko 
+
+2. Step
+- step 1: ETL lấy ra most search từng tháng
+- step 2: map most search vào category
+- step 3: xác định loại phim trending có thay đổi qua từng tháng /user ko (là cột `Trending Type` - tham khảo file temp/Sample_Data.xlsx)
+- step 4: nếu có thay đổi thì cột `Previous` khác null 
+
+3. Analyze
+- Thể loại nào dc search nhiều nhất
+
+
